@@ -1,2 +1,2 @@
-public class demo git sta{
+public class demo {
 }
